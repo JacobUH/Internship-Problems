@@ -1,6 +1,6 @@
 ## Given an integer array ‘arr[]’ of size N, find the sum of all sub-arrays of the given array. 
 
-Examples: 
+### *Examples:*
 
 Input: arr[] = {1, 2, 3}
 
