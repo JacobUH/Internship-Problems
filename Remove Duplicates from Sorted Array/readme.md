@@ -21,6 +21,8 @@ for (int i = 0; i < k; i++) {
 If all assertions pass, then your solution will be accepted.
 </pre>
 
+Here's some example inputs
+
 <pre>
 Example 1:
 Input: nums = [1,1,2]
