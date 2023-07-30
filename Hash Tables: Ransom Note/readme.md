@@ -13,3 +13,24 @@ Output:
 Yes
 </pre>
 
+Example 2
+<pre>
+Input:
+6 5
+two times three is not four
+two times two is four
+
+Output:
+No
+</pre>
+
+Example 3
+<pre>
+Input:
+7 4
+ive got a lovely bunch of coconuts
+ive got some coconuts
+
+Output:
+No
+</pre>
